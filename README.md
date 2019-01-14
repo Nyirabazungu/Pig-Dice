@@ -10,7 +10,14 @@ _This web application allows two players to play a game of Pig Dice._
 -terminal
 -bootstrap
 -jquery
- 
+
+ ## Setup/Installation Requirements
+
+* _Clone this repository_
+* _Open a HTML file_
+* _Open web browser of choice_
+
+
 ##contributors
 
 -Nyirabazungu Valentine < nyanki6@gmail.com>
@@ -23,7 +30,6 @@ _This web application allows two players to play a game of Pig Dice._
 
 ## lisence &copyright
 
-MTI, Copyright & Valentine,2018
 =======
 # query1
 >>>>>>> 
