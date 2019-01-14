@@ -28,11 +28,6 @@ background: linear-gradient(to right, #FFAFBD, #C9FFBF); /* W3C, IE 10+/ Edge, F
   height: 100vh;
   color: #555;
 }
-
-h3, p, li {text-transform: uppercase;}
-.rules-panel {
- line-height: 30px;
-}
 .lisence{
   text-align: right;
 }
