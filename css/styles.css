@@ -13,4 +13,8 @@ background: linear-gradient(to right, #FFAFBD, #C9FFBF); /* W3C, IE 10+/ Edge, F
 }
 .lisence{
   text-align: right;
+  box-shadow:3px 3px 4px #FFAFBD
+}
+footer{
+  box-shadow: #FFAFBD
 }
