@@ -67,13 +67,6 @@ h3, p, li {text-transform: uppercase;}
   color: #2ecc71;
   margin-bottom: 130px;
 }
-
-.player-0-rolled-1 {
-text-align: center;
-margin-bottom: 10px;
-}
-
-.player-1-rolled-1 {
-text-align: center;
-margin-bottom: 10px;
+.lisence{
+  text-align: right;
 }
