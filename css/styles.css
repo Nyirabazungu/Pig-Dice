@@ -46,15 +46,6 @@ h3, p, li {text-transform: uppercase;}
 .rules-panel {
  line-height: 30px;
 }
-
-.player-0-panel,
-.player-1-panel {
-  width: 50%;
-  float: left;
-  height: 600px;
-  padding: 100px;
-
-}
 .lisence{
   text-align: right;
 }
