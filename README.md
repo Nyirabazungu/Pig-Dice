@@ -1,4 +1,3 @@
-<<<HEAD\\\
 # PIG DICE GAME
 ##Description
 _This web application allows two players to play a game of Pig Dice._
