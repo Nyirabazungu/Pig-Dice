@@ -29,7 +29,9 @@ _This web application allows two players to play a game of Pig Dice._
  ###vnyanki6@gmail.com
 
 ## lisence &copyright
+*This software is licensed under the MIT license.*
 
+Copyright (c) 2016 **_Nyirabazungu Valentine_**
 =======
 # query1
 >>>>>>> 
