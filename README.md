@@ -1,7 +1,7 @@
 <<<HEAD\\\
 # PIG DICE GAME
 ##Description
-Pig Dice game is help
+_This web application allows two players to play a game of Pig Dice._
 
 ## setup used
 
