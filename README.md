@@ -18,7 +18,7 @@ Pig Dice game is help
 
  ##link to live site on GitHub pages
 
- https://github.com/Nyirabazungu/query1
+ https:https://github.com/Nyirabazungu/Pig-Dice
  ###vnyanki6@gmail.com
 
 ## lisence &copyright
@@ -26,4 +26,4 @@ Pig Dice game is help
 MTI, Copyright & Valentine,2018
 =======
 # query1
->>>>>>> 4eb1c0013d5410aeeecd2e0a3517cc04a64eeb02
+>>>>>>> 
