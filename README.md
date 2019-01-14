@@ -20,8 +20,8 @@ _This web application allows two players to play a game of Pig Dice._
 
 ##contributors
 
--Nyirabazungu Valentine < nyanki6@gmail.com>
- Moringa school
+-Nyirabazungu Valentine 
+-Moringa school
 
  ##link to live site on GitHub pages
 
