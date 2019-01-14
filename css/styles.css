@@ -53,19 +53,7 @@ h3, p, li {text-transform: uppercase;}
   float: left;
   height: 600px;
   padding: 100px;
-}
 
-
-
-/**********************************************
-*** PLAYERS
-**********************************************/
-.player-score-1 {
-  text-align: center;
-  font-size: 80px;
-  font-weight: 100;
-  color: #2ecc71;
-  margin-bottom: 130px;
 }
 .lisence{
   text-align: right;
