@@ -1,6 +1,7 @@
-# Quiz BOARD
+<<<HEAD\\\
+# PIG DICE GAME
 ##Description
-this webpage is about Pig Dice game 
+Pig Dice game is help
 
 ## setup used
 
@@ -25,4 +26,4 @@ this webpage is about Pig Dice game
 MTI, Copyright & Valentine,2018
 =======
 # query1
-
+>>>>>>> 4eb1c0013d5410aeeecd2e0a3517cc04a64eeb02

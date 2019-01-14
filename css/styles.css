@@ -30,19 +30,6 @@ background: linear-gradient(to right, #FFAFBD, #C9FFBF); /* W3C, IE 10+/ Edge, F
 }
 
 h3, p, li {text-transform: uppercase;}
-
-.wrapper {
-  width: 1000px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  background-color: #fff;
-  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
-  overflow: hidden;
-}
-
-
 .rules-panel {
  line-height: 30px;
 }
